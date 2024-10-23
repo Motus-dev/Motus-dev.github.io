@@ -713,11 +713,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }/*.isotope-overlay*/
 
 .responsive-video {
-    width: 100%;  /* Make the video take up the full width of its container */
-    height: auto; /* Maintain aspect ratio */
-    max-width: 100%; /* Ensure it doesn’t get larger than the container */
-  }
-  
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
 
 /*-------------------------------------
         11. Footer
