@@ -713,9 +713,9 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }/*.isotope-overlay*/
 
 .responsive-video {
-    width: 100%;
+    width: 20%;
     height: auto;
-    max-width: 100%;
+    max-width: 20%;
 }
 
 /*-------------------------------------
